@@ -1,6 +1,6 @@
 # PACK_99 불러쓰기 가이드 — 복사해서 그대로 쓰는 명령 모음
 
-> 🔗 **같이 쓰는 곳**: [Insta 영상 분석 모음 (썸네일·벤치마크 시각화)](https://geben147-create.github.io/Insta/) · [공통 시트](https://geben147-create.github.io/gongtong-sheet/) · [비공개 허브 저장소](https://github.com/geben147-create/ai-memory-hub-private)
+> 🔗 **같이 쓰는 곳**: [Insta 영상 분석 모음 (썸네일·벤치마크 시각화)](https://geben147-create.github.io/Insta/) · [공통 시트](https://geben147-create.github.io/gongtong-sheet/) · [비공개 허브 저장소](https://geben147-create.github.io/ai-memory-guide/)
 
 > 형식: **「공통기억에서 <팩> 팩의 <섹션> 섹션 읽고 ~해줘」** 가 가장 잘 됩니다.
 > 큰 팩(SNS·투자)은 **섹션 이름을 꼭 넣으세요** (전체를 읽으면 너무 길어 잘립니다).
